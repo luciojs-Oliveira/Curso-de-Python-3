@@ -12,4 +12,3 @@ print(msg)
 msg = "Mamãe eu amo você, mais eu te adora por tudo que você faz por mim., um beijo"
 print(msg)
 
-teste
